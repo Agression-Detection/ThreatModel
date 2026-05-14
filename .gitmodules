@@ -1,0 +1,6 @@
+[submodule "vivit"]
+	path = vivit
+	url = https://github.com/Agression-Detection/ViViT_Model.git
+[submodule "yolo"]
+	path = yolo
+	url = https://github.com/Agression-Detection/WeaponDetection.git
